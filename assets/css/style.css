@@ -155,11 +155,11 @@ a {
 }
 
 .brand-info {
-  max-width: 400px;
+  max-width: 450px;
   position: relative;
 }
 .brand-info h3 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-family: var(--Fraunce);
   margin-bottom: 30px;
 }
@@ -492,7 +492,7 @@ a {
   }
 
   .brand-info h3 {
-    font-size: 2.5rem;
+    font-size: 20rem;
   }
 
   .brand-info p {
